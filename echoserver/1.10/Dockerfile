@@ -1,1 +1,1 @@
-FROM echoserver:1.10
+FROM gcr.io/google_containers/echoserver:1.10
